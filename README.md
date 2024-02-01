@@ -1,6 +1,6 @@
 ¡Hola soy Fabiola!
 
-## Soy Data Analyst 
+## Soy Analista de datos 
 En este repositorio, encontrarás proyectos en los que he trabajado, centrándome en análisis y procesamiento de datos. Desde tareas ETL, análisis exploratorio, hasta visualizaciones informativas.
 Estos proyectos demuestran mi habilidad para transformar datos en insights significativos.
 
