@@ -8,7 +8,7 @@ Estos proyectos demuestran mi habilidad para transformar datos en insights signi
 - Microsoft Excel
 - Power Point
 - Google Sheets
-- Power BI
+- PowerBI
 - SQLServer
 - Lucidchart
 
