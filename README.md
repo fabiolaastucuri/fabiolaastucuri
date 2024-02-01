@@ -1,6 +1,6 @@
-## ¡Hola soy Fabiola! 
+## ¡Hola soy Fabiola! :wave:
 
-## Soy Analista de datos 
+## Soy Analista de datos  :bar_chart:.
 En este repositorio, encontrarás proyectos en los que trabajé, centrándome en análisis y procesamiento de datos. Desde tareas ETL, análisis exploratorio, hasta visualizaciones usando la técnica storytelling.
 Estos proyectos demuestran mi habilidad para transformar datos en insights significativos.
 
@@ -21,11 +21,11 @@ Estos proyectos demuestran mi habilidad para transformar datos en insights signi
    - Se analizan las terminales (cajeros) que hay en la ciudad,su distribución y su utilización.
    - Lo puedes ver en https://github.com/fabiolaastucuri/Proyectofinalexcel
 
-## Aprendizaje Continuo
+## Aprendizaje Continuo :rocket:
 Estoy comprometida con el aprendizaje constante y la mejora continua. 
 Compartiré mi camino de desarrollo en el manejo de datos y las habilidades adquiridas a lo largo del tiempo.
 
-## Contacto
+## Contacto :email:
 ¡Me encantaría saber tu opinión! Puedes contactarme a través de 
 soledad.astucuri@hotmail.com  o www.linkedin.com/in/fabiolasoledadastucuri
 
