@@ -22,12 +22,12 @@ Estos proyectos demuestran mi habilidad para transformar datos en insights signi
    - Lo puedes ver en https://github.com/fabiolaastucuri/Proyectofinalexcel
 
 ## Aprendizaje Continuo :rocket:
-Estoy comprometida con el aprendizaje constante y la mejora continua. 
-Compartiré mi camino de desarrollo en el manejo de datos y las habilidades adquiridas a lo largo del tiempo.
+Estoy comprometida con el aprendizaje constante y la mejora continua.
+Documentaré este largo camino de aprendizaje, explorando las tecnologías más recientes de análisis de datos.
 
 ## Contacto :email:
 ¡Me encantaría saber tu opinión! Puedes contactarme a través de 
 soledad.astucuri@hotmail.com  o www.linkedin.com/in/fabiolasoledadastucuri
 
-¡Gracias por visitar mi repositorio!
+¡Gracias por visitar mi repositorio! :pray:.
 
