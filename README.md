@@ -1,6 +1,6 @@
 ## ¡Hola soy Fabiola! :wave:
 
-## Soy Analista de datos  :bar_chart:.
+## Soy Analista de datos  :bar_chart:
 En este repositorio, encontrarás proyectos en los que trabajé, centrándome en análisis y procesamiento de datos. Desde tareas ETL, análisis exploratorio, hasta visualizaciones usando la técnica storytelling.
 Estos proyectos demuestran mi habilidad para transformar datos en insights significativos.
 
@@ -29,5 +29,5 @@ Documentaré este largo camino de aprendizaje, explorando las tecnologías más 
 ¡Me encantaría saber tu opinión! Puedes contactarme a través de 
 soledad.astucuri@hotmail.com  o www.linkedin.com/in/fabiolasoledadastucuri
 
-¡Gracias por visitar mi repositorio! :pray:.
+¡Gracias por visitar mi repositorio! :pray:
 
